@@ -38,3 +38,4 @@ if __name__ == '__main__':
         lfsr.tap = tap[i]
         lfsr.step()
         i += 1
+        print('test')
